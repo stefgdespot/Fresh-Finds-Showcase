@@ -29,7 +29,7 @@ Technologies
 
 Demo
 
-Watch the app demo here: [Video link]
+Watch the app demo here: https://youtu.be/VHt1Fr5S2Aw
 
 About the Project
 
