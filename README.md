@@ -72,4 +72,4 @@ Each screen has a View and a ViewModel. Stores hold data shared between screens,
 
 ## Source Code
 
-The source code is private because the app will launch as a company. Access can be given during an interview.
+The source code is private. Access can be given on request.
