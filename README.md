@@ -8,7 +8,7 @@ Watch the demo here: https://youtu.be/VHt1Fr5S2Aw
 
 ## Screenshots
 
-<img src="screenshots/feed.png" width="200"> <img src="screenshots/productdetails.png" width="200"> <img src="screenshots/chat.png" width="200"> <img src="screenshots/checkout.png" width="200"> <img src="screenshots/shippinglabel.png" width="200"> <img src="screenshots/trackshipment.png" width="200">
+<img src="screenshots/feed.PNG" width="200"> <img src="screenshots/productdetails.PNG" width="200"> <img src="screenshots/chat.PNG" width="200"> <img src="screenshots/checkout.PNG" width="200"> <img src="screenshots/shippinglabel.PNG" width="200"> <img src="screenshots/trackshipment.PNG" width="200">
 
 ## Features
 
